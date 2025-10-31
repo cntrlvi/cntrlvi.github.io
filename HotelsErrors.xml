@@ -40,7 +40,7 @@
   </Hotel>
 
 <!-- Hotel 4 // Missing closing tag for Address element -->
-  <Hotel Rating="4.2">
+  <Hotel>
     <Name>Harrah&apos;s Ak-Chin Hotel And Casino</Name>
     <Phone>480-802-5000</Phone>
     <Address NearestAirport="Sky Harbor">
